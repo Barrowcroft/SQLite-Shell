@@ -1,0 +1,6 @@
+[config]
+cwd = C:\Users\krbj6\Documents\Programming\Python\money\source\mvc\models\database
+echo = OFF
+open = None
+width = 80
+
